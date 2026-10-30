@@ -2,8 +2,11 @@
 Computer Engineering student at PRPCET, Mumbai University (2024-2028), looking for full-stack internships and placement opportunities at startups.
 
 ## 🛠 Tech Stack
+
 **Frontend:** JavaScript, React
+
 **Database:** MySQL
+
 **Tools & Deployment:** Git, Vercel, Render
 
 ## 🚀 Featured Projects
