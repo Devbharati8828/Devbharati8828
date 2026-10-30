@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Dev 👋
+Computer Engineering student at PRPCET, Mumbai University (2024-2028), looking for full-stack internships and placement opportunities at startups.
 
-<!--
-**Devbharati8828/Devbharati8828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+**Frontend:** JavaScript, React
+**Database:** MySQL
+**Tools & Deployment:** Git, Vercel, Render
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- **[PulseVibe](https://github.com/Devbharati8828/PulseVibe)** – Camera-based vital signs (BPM) using rPPG
+- **[HeliosGPU](https://github.com/Devbharati8828/HeliosGPU)** – WebGPU urban shadow and solar simulator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/devneal-bharati) | [Email](devsaroj882864@gmail.com)
